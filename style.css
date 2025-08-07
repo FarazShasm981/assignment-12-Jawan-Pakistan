@@ -48,10 +48,11 @@
 }
 
 .lists ul select {
-    width: 100px;
+    width: 110px;
     border-left: none;
     font-size: 20px;
     border: none;
+    outline: none;
 }
 
 /* Home Section */
@@ -177,6 +178,7 @@ p {
 .first-para {
     color: rgb(177, 176, 176);
     margin: 20px 0;
+    text-align: center;
 }
 
 .qoma {
